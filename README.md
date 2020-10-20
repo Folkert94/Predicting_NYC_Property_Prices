@@ -1,1 +1,5 @@
 # Predicting_NY_House_Prices
+
+1) Build the best robust model you can that could predict the price of on 'unseen' New york City properties from the provided NYC property prices dataset alone (sales_data_2015.csvPreview the document). You should compare the models to a suitable baseline to see how well these models perform. The task is much more on "reliable" than "best"; more to show your analysis process than what the best numbers are. This means you have to both (1) clean and split your dataset appropriately and (2) tune your models/model selections appropriately.  During the analysis you will have to make several make choices and assumptions: the point is that you understand these choices/assumptions and any effects or limitations they may have on your final results. 
+
+2) Compare the model built from in the first task to a further model that also including features extracted from aerial photos (sales_data_2015_DF-inception-conv.csvPreview the document).  This should be such that you can reliably say whether visual features from aerial photos are useful for determining property prices, or not.
