@@ -1,4 +1,4 @@
-# Predicting_NY_House_Prices
+# Predicting_NYC_Property_Prices
 
 1) Build the best robust model you can that could predict the price of on 'unseen' New york City properties from the provided NYC property prices dataset alone (sales_data_2015.csvPreview the document). You should compare the models to a suitable baseline to see how well these models perform. The task is much more on "reliable" than "best"; more to show your analysis process than what the best numbers are. This means you have to both (1) clean and split your dataset appropriately and (2) tune your models/model selections appropriately.  During the analysis you will have to make several make choices and assumptions: the point is that you understand these choices/assumptions and any effects or limitations they may have on your final results. 
 
